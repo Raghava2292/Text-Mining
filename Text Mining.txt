@@ -1,0 +1,7 @@
+Task 1 - 
+
+    Performing the sentiment analysis on Elon Musk tweets using a sentiment analyzer and also the affinity scores.
+
+Task 2 - 
+    
+    Extracting the reviews from an amazon product page and performing the emotion mining of the reviews.
